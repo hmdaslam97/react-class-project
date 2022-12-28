@@ -1,0 +1,23 @@
+.main{
+    width:99%;
+    margin-left:1%;
+    display: inline-block;
+}
+
+.card{
+    width:26%;
+    margin:2%;
+    padding:1%;
+    height:340px;
+    box-shadow: 5px 10px 15px gray;
+    border: 5px solid brown;
+    border-radius: 10px;
+    float: left;
+}
+
+.card > img{
+    height:30vh;
+    width:11vw;
+    margin-left:25% ;
+    align-items: center;
+}
